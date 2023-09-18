@@ -1,6 +1,6 @@
 package tests;
 
-  public class TestCast07{
+  public class TestCase07{
 
     
 
